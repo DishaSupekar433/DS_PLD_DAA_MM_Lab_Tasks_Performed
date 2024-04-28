@@ -33,9 +33,10 @@
 7. Write a program in an object-oriented language to understand the concept of class inheritance. Declare a base class student with fields for roll number and marks in two subjects. Derive another class with additional attributes for total marks and percentage. Read marks and roll number and print the result from the derived class.
 8. Write a program in an object-oriented language to understand the concept of class polymorphism. Declare multiple functions with the same name but different prototypes. Access these overloaded functions depending on the values entered by the user at runtime.
 9. Study default, parameterized, and copy constructors.
-A1. Write a program to demonstrate the use of a concurrent programming language.
-A2. Write a simple expert system using a functional programming language.
-A3. Write a program to demonstrate the use of a logical programming language.
+10. Extra:
+    Write a program to demonstrate the use of a concurrent programming language.
+    Write a simple expert system using a functional programming language.
+    Write a program to demonstrate the use of a logical programming language.
 
 # Design & Analysis of Algorithms
 1. Program to implement Selection sort
@@ -45,10 +46,10 @@ A3. Write a program to demonstrate the use of a logical programming language.
 5. Program to Find Max and Min
 6. Implementation of Merge Sort algorithm using Divide & Conquer method
 7. Implementation of Quick Sort algorithm using Divide & Conquer method.
-8 Program to implement knapsack problem using greedy method.
-9 Program to implement job sequencing with deadlines using greedy method.
-10 Program for finding shortest path for multistage graph using
-11 Program to implement 8-queens problem using backtrack method.
+8. Program to implement knapsack problem using greedy method.
+9. Program to implement job sequencing with deadlines using greedy method.
+10. Program for finding shortest path for multistage graph using
+11. Program to implement 8-queens problem using backtrack method.
 
 # Microprocessors & Microcontrollers
 1. Program for Macro.
@@ -56,7 +57,7 @@ A3. Write a program to demonstrate the use of a logical programming language.
 3. Program for FAR procedure. Use of PUBLIC and EXTERN directives is mandatory.
 4. Program to find factorial of given number. Write x86 ALP to find the factorial of a given integer number on a command line by using recursion. Explicit stack manipulation is expected in the code.
 5. Program for Password verification.
-6.Program for BCD addition.
+6. Program for BCD addition.
 7. Program to display system time & date.
 8. Program for HEX to BCD conversion.
 9. Program for BCD to HEX conversion.
